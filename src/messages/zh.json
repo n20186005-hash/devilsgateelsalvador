@@ -33,10 +33,10 @@
     "alsoKnownAs": {
       "title": "核心亮点",
       "items": [
-        "壮观的山景：可以俯瞰整个潘奇马尔科和周边的美丽景色。",
-        "自然步道：拥有多条远足小径，适合徒步爱好者。",
-        "凉爽气候：海拔较高，气候凉爽宜人。",
-        "优越位置：位于潘奇马尔科，交通便利。"
+        "极致全景视野：站在两座巨岩形成的“门”中，不仅可以俯瞰潘奇马尔科，天气晴朗时还能远眺圣维森特火山（San Vicente Volcano）、伊洛潘戈湖（Lake Ilopango）以及壮阔的太平洋海岸线。",
+        "惊险地质奇观：高达百米的断崖裂口，带来极具视觉冲击力的自然之美。",
+        "户外极限运动：除了常规的自然步道，这里也是攀岩爱好者和高空滑索（Zipline）体验者的热门胜地。",
+        "凉爽气候：海拔超过 1,000 米，常年云雾缭绕，气候凉爽宜人。"
       ]
     }
   },
@@ -107,26 +107,26 @@
   },
   "tickets": {
     "title": "门票信息",
-    "outdoor": "公园参观",
-    "outdoorPrice": "免费开放",
-    "lighthouse": "导游服务",
-    "adults": "现场导游",
-    "adultsPrice": "可适当给予小费",
-    "students": "文化体验",
-    "studentsPrice": "周边有众多自然景观",
-    "children": "建议",
-    "childrenPrice": "尊重自然环境，保护生态",
-    "card": "附加服务",
-    "cardPrice": "可购买纪念品"
+    "outdoor": "公园基础入园",
+    "outdoorPrice": "免费",
+    "lighthouse": "核心观景台登顶（Peñas）",
+    "adults": "外国人",
+    "adultsPrice": "约 $3.00 美元",
+    "students": "本国人",
+    "studentsPrice": "约 $1.50 美元",
+    "children": "车辆停车费",
+    "childrenPrice": "约 $2.00 美元",
+    "card": "附加项目",
+    "cardPrice": "(注：高空滑索等极限运动项目需额外在现场租赁装备或购票)"
   },
   "transport": {
     "title": "交通方式",
     "airport": "从机场出发",
-    "airportDesc": "最近机场：萨尔瓦多国际机场 (SAL)。从那里可以乘坐公交或出租车前往潘奇马尔科。",
+    "airportDesc": "从萨尔瓦多国际机场 (SAL) 出发，驱车约 45 分钟即可抵达。建议沿 Comalapa 高速公路向圣萨尔瓦多方向行驶，然后转入前往 Los Planes de Renderos 的公路。",
     "selfDrive": "自驾前往",
-    "selfDriveDesc": "公园位于潘奇马尔科，建议使用导航前往。周边有停车场。",
+    "selfDriveDesc": "从圣萨尔瓦多市区出发，向南行驶进入 Carretera a Los Planes de Renderos（Los Planes de Renderos 公路），车程约 20-30 分钟，沿途有清晰的指示牌，公园设有收费停车场（约 $2.00）。",
     "bus": "公共交通",
-    "busDesc": "可乘坐公共交通前往潘奇马尔科，然后步行或乘坐出租车前往公园。",
+    "busDesc": "在圣萨尔瓦多市中心（近中央市场 Mercado Central 区域），可乘坐 12 路微型公交车（Microbús Ruta 12）。该路线会直接开往 Los Planes de Renderos 并抵达 Puerta del Diablo 附近，是经济实惠的公共交通选择。",
     "intercity": "步行游览",
     "intercityDesc": "公园内有步行道，可步行游览各个景点。",
     "cycling": "其他方式",
@@ -345,28 +345,28 @@
   },
   "officialManagement": {
     "title": "关于 Devil's Gate",
-    "text": "Devil's Gate 是潘奇马尔科的著名自然景观，拥有壮观的山景和丰富的自然文化价值。"
+    "text": "Devil's Gate (Puerta del Diablo) 目前由萨尔瓦多国家旅游学会 (ISTU - Instituto Salvadoreño de Turismo) 官方管理与维护。近年来，ISTU 对公园进行了全面的设施升级，以提供更安全、舒适的生态旅游与极限运动体验。"
   },
   "historyTimeline": {
     "title": "历史变迁时间线",
     "items": [
       {
-        "year": "早期",
-        "title": "早期：自然形成",
-        "plaque": "自然景观（山脉）",
-        "description": "Devil's Gate 是自然形成的壮观山景，长期以来一直是当地居民喜爱的场所。"
+        "year": "18世纪",
+        "title": "地质巨变（1762年）",
+        "plaque": "山体滑坡裂变",
+        "description": "根据历史记载，1762 年的特大暴雨与地震导致 Cerro El Chulo 山体发生巨大滑坡，岩石一分为二，形成了如今标志性的“门”状裂口。"
       },
       {
         "year": "20世纪",
-        "title": "20 世纪：旅游发展",
-        "plaque": "旅游发展（公园建设）",
-        "description": "随着萨尔瓦多旅游业的发展，Devil's Gate 逐渐成为受欢迎的旅游景点，设施不断完善。"
+        "title": "文化命名与旅游起步",
+        "plaque": "旅游与文学标记",
+        "description": "最初它有各种民间传说，后在 20 世纪中叶，萨尔瓦多诗人 Raúl Contreras 在其诗作中赋予了它“Puerta del Diablo（魔鬼门）”的名称，并逐渐成为国民观光点。"
       },
       {
         "year": "21世纪",
-        "title": "21 世纪：生态旅游胜地",
-        "plaque": "旅游标识（生态旅游）",
-        "description": "进入21世纪，Devil's Gate 凭借其壮观的自然风光，吸引了越来越多的游客，成为萨尔瓦多生态旅游的重要窗口。"
+        "title": "生态与极限运动公园",
+        "plaque": "设施翻新与生态旅游",
+        "description": "近年来公园进行了全面的基础设施升级，增设了更安全的观景台、玻璃栈道与当地美食区，成为融合自然奇观与极限运动的成熟旅游区。"
       }
     ],
     "guideTitle": "游客导览建议",

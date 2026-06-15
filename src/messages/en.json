@@ -33,10 +33,10 @@
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Spectacular mountain views: Overlook the entire Panchimalco and surrounding beautiful scenery.",
-        "Nature trails: Multiple hiking trails suitable for hiking enthusiasts.",
-        "Cool climate: High altitude with cool and pleasant climate.",
-        "Prime location: Located in Panchimalco with convenient access."
+        "Ultimate panoramic view: Standing between the \"gate\" formed by two giant rocks, you can not only overlook Panchimalco, but on clear days, you can also see the San Vicente Volcano, Lake Ilopango, and the spectacular Pacific coastline.",
+        "Thrilling geological wonder: The cliff cleft, reaching up to a hundred meters high, brings a visually striking natural beauty.",
+        "Outdoor extreme sports: Besides regular nature trails, it is also a popular destination for rock climbing enthusiasts and zipline experiencers.",
+        "Cool climate: Located at an altitude of over 1,000 meters, it is shrouded in clouds all year round, with a cool and pleasant climate."
       ]
     }
   },
@@ -107,26 +107,26 @@
   },
   "tickets": {
     "title": "Ticket Information",
-    "outdoor": "Park Visit",
-    "outdoorPrice": "Free admission",
-    "lighthouse": "Guided Tours",
-    "adults": "On-site guide",
-    "adultsPrice": "Tips appreciated",
-    "students": "Cultural Experience",
-    "studentsPrice": "Many natural landscapes nearby",
-    "children": "Recommendations",
-    "childrenPrice": "Respect the natural environment and protect ecology",
-    "card": "Additional Services",
-    "cardPrice": "Souvenirs available"
+    "outdoor": "Basic Park Admission",
+    "outdoorPrice": "Free",
+    "lighthouse": "Core Observation Deck Access (Peñas)",
+    "adults": "Foreigners",
+    "adultsPrice": "~$3.00 USD",
+    "students": "Nationals",
+    "studentsPrice": "~$1.50 USD",
+    "children": "Parking Fee",
+    "childrenPrice": "~$2.00 USD",
+    "card": "Additional Activities",
+    "cardPrice": "(Note: Extreme sports like ziplining require additional equipment rental or tickets on-site)"
   },
   "transport": {
     "title": "Transportation",
     "airport": "From the Airport",
-    "airportDesc": "Nearest airport: El Salvador International Airport (SAL). From there, take a bus or taxi to Panchimalco.",
+    "airportDesc": "From El Salvador International Airport (SAL), it is about a 45-minute drive. Take the Comalapa Highway towards San Salvador, then switch to the road heading to Los Planes de Renderos.",
     "selfDrive": "Driving",
-    "selfDriveDesc": "The park is located in Panchimalco. Use navigation and check for parking nearby.",
+    "selfDriveDesc": "From downtown San Salvador, drive south on Carretera a Los Planes de Renderos. The trip takes about 20-30 minutes with clear signage along the way. A paid parking lot (~$2.00) is available at the park.",
     "bus": "Public Transport",
-    "busDesc": "You can take public transport to Panchimalco, then walk or take a taxi to the park.",
+    "busDesc": "In downtown San Salvador (near the Mercado Central area), take the Route 12 minibus (Microbús Ruta 12). This route goes directly to Los Planes de Renderos and drops you off near Puerta del Diablo, making it a very affordable public transport option.",
     "intercity": "Walking Tour",
     "intercityDesc": "There are walking trails in the park, walkable to various attractions.",
     "cycling": "Other Means",
@@ -345,28 +345,28 @@
   },
   "officialManagement": {
     "title": "About Devil's Gate",
-    "text": "Devil's Gate is a famous natural landscape in Panchimalco, featuring spectacular mountain views and rich natural and cultural value."
+    "text": "Devil's Gate (Puerta del Diablo) is officially managed and maintained by the Salvadoran Institute of Tourism (ISTU - Instituto Salvadoreño de Turismo). In recent years, ISTU has carried out comprehensive facility upgrades to provide a safer and more comfortable ecotourism and extreme sports experience."
   },
   "historyTimeline": {
     "title": "Historical Timeline",
     "items": [
       {
-        "year": "Early Period",
-        "title": "Early Period: Natural Formation",
-        "plaque": "Natural Landscape (Mountains)",
-        "description": "Devil's Gate is a naturally formed spectacular mountain view that has long been a favorite place for local residents."
+        "year": "18th Century",
+        "title": "Geological Upheaval (1762)",
+        "plaque": "Landslide and Fission",
+        "description": "According to historical records, the heavy rain and earthquake in 1762 caused a massive landslide on Cerro El Chulo, splitting the rock in two and forming the iconic \"gate\" shaped cleft we see today."
       },
       {
         "year": "20th Century",
-        "title": "20th Century: Tourism Development",
-        "plaque": "Tourism Development (Park Construction)",
-        "description": "With the development of tourism in El Salvador, Devil's Gate gradually became a popular tourist attraction with continuously improving facilities."
+        "title": "Cultural Naming and Tourism Beginnings",
+        "plaque": "Tourism and Literary Mark",
+        "description": "Initially surrounded by various folk legends, it was later named \"Puerta del Diablo (Devil's Gate)\" in the mid-20th century by Salvadoran poet Raúl Contreras in his poem, gradually becoming a national sightseeing spot."
       },
       {
         "year": "21st Century",
-        "title": "21st Century: Ecotourism Destination",
-        "plaque": "Tourism Landmark (Ecotourism)",
-        "description": "In the 21st century, Devil's Gate attracts more and more visitors with its spectacular natural scenery, becoming an important window to experience El Salvador's ecotourism."
+        "title": "Ecological and Extreme Sports Park",
+        "plaque": "Facility Renovation and Ecotourism",
+        "description": "In recent years, the park has undergone comprehensive infrastructure upgrades, adding safer observation decks, glass walkways, and local food areas, becoming a mature tourist area that integrates natural wonders and extreme sports."
       }
     ],
     "guideTitle": "Visitor Guide Tip",

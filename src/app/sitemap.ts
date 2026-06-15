@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://devilsgate.com';
+  const baseUrl = 'https://devilsgateelsalvador.com';
   const locales = ['zh', 'en', 'es'];
   const routes = ['', '/privacy-policy', '/terms-of-service', '/cookie-settings'];
 

@@ -33,10 +33,10 @@
     "alsoKnownAs": {
       "title": "Destacados",
       "items": [
-        "Vistas espectaculares de montaña: Overlook todo Panchimalco y los hermosos paisajes circundantes.",
-        "Senderos naturales: Múltiples senderos para caminatas adecuados para entusiastas del senderismo.",
-        "Clima fresco: Alta altitud con clima fresco y agradable.",
-        "Ubicación privilegiada: Situado en Panchimalco, de fácil acceso."
+        "Vistas panorámicas definitivas: De pie entre la \"puerta\" formada por dos rocas gigantes, no solo puedes contemplar Panchimalco, sino que en días despejados, también puedes ver el Volcán de San Vicente, el Lago de Ilopango y la espectacular costa del Pacífico.",
+        "Maravilla geológica emocionante: La grieta del acantilado, de hasta cien metros de altura, ofrece una belleza natural visualmente impactante.",
+        "Deportes extremos al aire libre: Además de los senderos naturales regulares, también es un destino popular para los entusiastas de la escalada en roca y los que experimentan el canopy (tirolesa).",
+        "Clima fresco: Situado a una altitud de más de 1.000 metros, está envuelto en nubes todo el año, con un clima fresco y agradable."
       ]
     }
   },
@@ -106,27 +106,27 @@
     "tip": "Las visitas diurnas ofrecen la mejor experiencia"
   },
   "tickets": {
-    "title": "Información de Entradas",
-    "outdoor": "Visita al Parque",
-    "outdoorPrice": "Entrada gratuita",
-    "lighthouse": "Visitas Guiadas",
-    "adults": "Guía en el sitio",
-    "adultsPrice": "Propinas apreciadas",
-    "students": "Experiencia Cultural",
-    "studentsPrice": "Muchos paisajes naturales cercanos",
-    "children": "Recomendaciones",
-    "childrenPrice": "Respetar el medio ambiente natural y proteger la ecología",
-    "card": "Servicios Adicionales",
-    "cardPrice": "Souvenirs disponibles"
+    "title": "Información de Boletos",
+    "outdoor": "Entrada Básica al Parque",
+    "outdoorPrice": "Gratis",
+    "lighthouse": "Acceso al Mirador Principal (Peñas)",
+    "adults": "Extranjeros",
+    "adultsPrice": "~$3.00 USD",
+    "students": "Nacionales",
+    "studentsPrice": "~$1.50 USD",
+    "children": "Tarifa de Estacionamiento",
+    "childrenPrice": "~$2.00 USD",
+    "card": "Actividades Adicionales",
+    "cardPrice": "(Nota: Deportes extremos como el canopy requieren alquiler de equipo o boletos adicionales en el lugar)"
   },
   "transport": {
     "title": "Transporte",
     "airport": "Desde el Aeropuerto",
-    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de El Salvador (SAL). Desde allí, toma un autobús o taxi a Panchimalco.",
+    "airportDesc": "Desde el Aeropuerto Internacional de El Salvador (SAL), el trayecto en auto es de unos 45 minutos. Tome la Autopista Comalapa hacia San Salvador y luego desvíese hacia la Carretera a Los Planes de Renderos.",
     "selfDrive": "En Coche",
-    "selfDriveDesc": "El parque está ubicado en Panchimalco. Usa navegación y busca estacionamiento cercano.",
+    "selfDriveDesc": "Desde el centro de San Salvador, conduzca hacia el sur por la Carretera a Los Planes de Renderos. El viaje dura unos 20-30 minutos con señalización clara. Hay un aparcamiento de pago (~$2.00) disponible en el parque.",
     "bus": "Transporte Público",
-    "busDesc": "Puedes tomar transporte público a Panchimalco, luego caminar o tomar un taxi al parque.",
+    "busDesc": "En el centro de San Salvador (cerca de la zona del Mercado Central), tome el microbús de la Ruta 12. Esta ruta va directamente a Los Planes de Renderos y le deja cerca de la Puerta del Diablo, siendo una opción de transporte público muy asequible.",
     "intercity": "Tour a Pie",
     "intercityDesc": "Hay senderos para caminatas en el parque, caminable a varias atracciones.",
     "cycling": "Otros Medios",
@@ -345,28 +345,28 @@
   },
   "officialManagement": {
     "title": "Acerca de Devil's Gate",
-    "text": "Devil's Gate es un famoso paisaje natural en Panchimalco, que cuenta con vistas espectaculares de montaña y rico valor natural y cultural."
+    "text": "La Puerta del Diablo es administrada y mantenida oficialmente por el Instituto Salvadoreño de Turismo (ISTU). En los últimos años, el ISTU ha llevado a cabo mejoras integrales en las instalaciones para ofrecer una experiencia de ecoturismo y deportes extremos más segura y cómoda."
   },
   "historyTimeline": {
     "title": "Cronología Histórica",
     "items": [
       {
-        "year": "Período Inicial",
-        "title": "Período Inicial: Formación Natural",
-        "plaque": "Paisaje Natural (Montañas)",
-        "description": "Devil's Gate es una vista de montaña espectacular formada naturalmente que ha sido un lugar favorito para los residentes locales durante mucho tiempo."
+        "year": "Siglo XVIII",
+        "title": "Trastorno Geológico (1762)",
+        "plaque": "Deslizamiento de Tierra y Fisión",
+        "description": "Según los registros históricos, las fuertes lluvias y el terremoto de 1762 causaron un deslizamiento masivo en el Cerro El Chulo, partiendo la roca en dos y formando la icónica grieta en forma de \"puerta\" que vemos hoy."
       },
       {
         "year": "Siglo XX",
-        "title": "Siglo XX: Desarrollo Turístico",
-        "plaque": "Desarrollo Turístico (Construcción del Parque)",
-        "description": "Con el desarrollo del turismo en El Salvador, Devil's Gate se convirtió gradualmente en una atracción turística popular con instalaciones que mejoran continuamente."
+        "title": "Nombramiento Cultural y Comienzos del Turismo",
+        "plaque": "Marca Turística y Literaria",
+        "description": "Inicialmente rodeado de varias leyendas populares, fue nombrado \"Puerta del Diablo\" a mediados del siglo XX por el poeta salvadoreño Raúl Contreras en su poema, convirtiéndose gradualmente en un punto de interés turístico nacional."
       },
       {
         "year": "Siglo XXI",
-        "title": "Siglo XXI: Destino de Ecoturismo",
-        "plaque": "Hito Turístico (Ecoturismo)",
-        "description": "En el siglo XXI, Devil's Gate atrae a más y más visitantes con sus espectaculares paisajes naturales, convirtiéndose en una ventana importante para experimentar el ecoturismo de El Salvador."
+        "title": "Parque Ecológico y de Deportes Extremos",
+        "plaque": "Renovación de Instalaciones y Ecoturismo",
+        "description": "En los últimos años, el parque ha sido objeto de mejoras integrales de infraestructura, añadiendo miradores más seguros, pasarelas de cristal y áreas de comida local, convirtiéndose en una zona turística madura que integra maravillas naturales y deportes extremos."
       }
     ],
     "guideTitle": "Consejo de Guía para Visitantes",
