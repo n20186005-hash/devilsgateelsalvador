@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "title": "Devil's Gate | Puerta del Diablo",
+    "description": "Explora Devil's Gate (Puerta del Diablo) en Panchimalco, El Salvador. Un hermoso parque con paisajes naturales espectaculares y senderos para caminatas."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Resenas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Devil's Gate",
+    "subtitle": "Puerta del Diablo · El Salvador",
+    "rating": "4.6",
+    "reviewCount": "6,588",
+    "hours": "Parque",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora Devil's Gate",
+    "description": "Devil's Gate (Puerta del Diablo) se encuentra en Panchimalco, Departamento de San Salvador, El Salvador. Es un hermoso parque con vistas espectaculares de montaña y ricos paisajes naturales, siendo una de las atracciones turísticas más populares de El Salvador.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "Horario del parque: 08:00–22:00",
+        "Usa zapatos cómodos para caminar",
+        "Trae una cámara para capturar vistas espectaculares de montaña",
+        "Lleva suficiente agua y protección solar"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Vistas espectaculares de montaña: Overlook todo Panchimalco y los hermosos paisajes circundantes.",
+        "Senderos naturales: Múltiples senderos para caminatas adecuados para entusiastas del senderismo.",
+        "Clima fresco: Alta altitud con clima fresco y agradable.",
+        "Ubicación privilegiada: Situado en Panchimalco, de fácil acceso."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "Descubre la ruta ideal para explorar Devil's Gate y experimentar la esencia de los paisajes naturales y la cultura salvadoreña.",
+    "steps": [
+      "Comienza desde la entrada y sube por el sendero principal.",
+      "Detente en el mirador para disfrutar de vistas espectaculares de montaña y paisaje panorámico.",
+      "Continúa explorando los senderos naturales circundantes y siente el fresco aire de montaña.",
+      "Descansa en el área de descanso del parque y disfruta de la tranquilidad de la naturaleza."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Se recomienda ir por la mañana para evitar multitudes y disfrutar del aire fresco.",
+      "Presta atención a la protección solar ya que los rayos UV son más fuertes en altitudes altas.",
+      "Por favor lleva tu basura contigo para proteger el medio ambiente natural."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto de Devil's Gate",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Histórica",
+        "content": "Devil's Gate es un importante punto de referencia natural en El Salvador y ha sido un lugar de ocio favorito para los residentes locales y turistas durante mucho tiempo."
+      },
+      {
+        "id": "nature",
+        "title": "Paisaje Natural",
+        "content": "Cuenta con vistas espectaculares de montaña y rica vegetación, siendo un lugar excelente para experimentar la belleza natural de El Salvador."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Pasear por Devil's Gate, sentir el fresco clima de montaña y el magnífico paisaje natural, es una experiencia inolvidable de naturaleza."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Devil's Gate (Puerta del Diablo)",
+    "type": "Tipo de atracción",
+    "typeValue": "Parque",
+    "country": "País",
+    "countryValue": "El Salvador",
+    "city": "Ciudad",
+    "cityValue": "Panchimalco, Departamento de San Salvador",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "JRF6+X3 Panchimalco, El Salvador",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "JRF6+X3 Panchimalco, El Salvador"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Área del Parque",
+    "outdoorTime": "08:00–22:00",
+    "lighthouse": "Mejor Época para Visitar",
+    "summer": "Temporada Seca (noviembre-abril)",
+    "summerTime": "Clima más agradable, ideal para visitas al aire libre",
+    "winter": "Temporada de Lluvias (mayo-octubre)",
+    "winterTime": "Clima cálido con lluvias por la tarde, llevar paraguas",
+    "warning": "Notas Importantes",
+    "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
+    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+  },
+  "tickets": {
+    "title": "Información de Entradas",
+    "outdoor": "Visita al Parque",
+    "outdoorPrice": "Entrada gratuita",
+    "lighthouse": "Visitas Guiadas",
+    "adults": "Guía en el sitio",
+    "adultsPrice": "Propinas apreciadas",
+    "students": "Experiencia Cultural",
+    "studentsPrice": "Muchos paisajes naturales cercanos",
+    "children": "Recomendaciones",
+    "childrenPrice": "Respetar el medio ambiente natural y proteger la ecología",
+    "card": "Servicios Adicionales",
+    "cardPrice": "Souvenirs disponibles"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de El Salvador (SAL). Desde allí, toma un autobús o taxi a Panchimalco.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "El parque está ubicado en Panchimalco. Usa navegación y busca estacionamiento cercano.",
+    "bus": "Transporte Público",
+    "busDesc": "Puedes tomar transporte público a Panchimalco, luego caminar o tomar un taxi al parque.",
+    "intercity": "Tour a Pie",
+    "intercityDesc": "Hay senderos para caminatas en el parque, caminable a varias atracciones.",
+    "cycling": "Otros Medios",
+    "cyclingDesc": "Se recomienda transporte público o manejar, transporte conveniente alrededor del parque.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "Devil's Gate es un excelente lugar para experimentar los paisajes naturales de El Salvador, se recomiendan las visitas diurnas."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto de Devil's Gate",
+    "captions": [
+      "Vista panorámica del parque",
+      "Paisaje natural",
+      "Vista de montaña",
+      "Paisaje del parque",
+      "Paisaje natural",
+      "Senderos para caminatas",
+      "Paisaje cultural",
+      "Estilo natural",
+      "Ambiente del parque",
+      "Características naturales",
+      "Naturaleza y cultura",
+      "Vista completa del parque",
+      "Estilo de montaña",
+      "Rastros naturales",
+      "Cultura natural",
+      "Paisaje natural",
+      "Paisaje del parque"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Resenas de Visitantes",
+    "declaration": "La información de las resenas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Resenas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Rivera",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Un lugar lleno de belleza natural. Las vistas de montaña del parque son inolvidables, muy recomendable para todos los turistas que aman la naturaleza."
+      },
+      {
+        "name": "María González",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Parque natural asombroso. Las vistas de montaña son muy espectaculares. Esta es una parte importante de los paisajes naturales de El Salvador."
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "hace 1 mes",
+        "rating": 4,
+        "text": "Lugar muy interesante para acercarse a la verdadera naturaleza. Se recomiendan las visitas diurnas cuando la luz es mejor."
+      },
+      {
+        "name": "Ana Torres",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Una parte importante de la naturaleza de El Salvador. El paisaje del parque es conmovedor, un lugar imprescindible en Panchimalco."
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "hace 2 años",
+        "rating": 4,
+        "text": "Excelente experiencia natural. Las vistas de montaña son maravillosas, y hay muchos paisajes naturales cercanos."
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Hermoso parque, lleno del encanto de la naturaleza de El Salvador. Las vistas de montaña son inolvidables, definitivamente vale la pena visitarlo."
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "hace 3 meses",
+        "rating": 4,
+        "text": "Lugar natural interesante. Experimenta la naturaleza de cerca, recomiendo proteger el medio ambiente."
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Gema natural de Panchimalco. Devil's Gate es un lugar importante para comprender la naturaleza de El Salvador, definitivamente vale la pena experimentarlo."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "JRF6+X3 Panchimalco, El Salvador",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Devil's Gate. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales",
+    "officialLinks": {
+      "mitur": {
+        "name": "Ministerio de Turismo de El Salvador",
+        "url": "https://elsalvador.travel/esp/"
+      },
+      "istu": {
+        "name": "Instituto Nacional de Turismo de El Salvador",
+        "url": "https://www.transparencia.gob.sv/institutions/istu"
+      },
+      "cultura": {
+        "name": "Ministerio de Cultura de El Salvador",
+        "url": "https://www.cultura.gob.sv"
+      },
+      "panchimalco": {
+        "name": "Concejo Municipal de Panchimalco",
+        "url": "https://www.transparencia.gob.sv/"
+      },
+      "migracion": {
+        "name": "Dirección General de Migración y Extranjería de El Salvador",
+        "url": "https://www.migracion.gob.sv"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "officialManagement": {
+    "title": "Acerca de Devil's Gate",
+    "text": "Devil's Gate es un famoso paisaje natural en Panchimalco, que cuenta con vistas espectaculares de montaña y rico valor natural y cultural."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Inicial",
+        "title": "Período Inicial: Formación Natural",
+        "plaque": "Paisaje Natural (Montañas)",
+        "description": "Devil's Gate es una vista de montaña espectacular formada naturalmente que ha sido un lugar favorito para los residentes locales durante mucho tiempo."
+      },
+      {
+        "year": "Siglo XX",
+        "title": "Siglo XX: Desarrollo Turístico",
+        "plaque": "Desarrollo Turístico (Construcción del Parque)",
+        "description": "Con el desarrollo del turismo en El Salvador, Devil's Gate se convirtió gradualmente en una atracción turística popular con instalaciones que mejoran continuamente."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Destino de Ecoturismo",
+        "plaque": "Hito Turístico (Ecoturismo)",
+        "description": "En el siglo XXI, Devil's Gate atrae a más y más visitantes con sus espectaculares paisajes naturales, convirtiéndose en una ventana importante para experimentar el ecoturismo de El Salvador."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puedes comenzar desde la **entrada** para sentir la atmósfera natural; luego disfruta de las espectaculares vistas de montaña en el **mirador**; a continuación, explora los **senderos naturales** para sentir el fresco aire de montaña; finalmente, descansa en el **área de descanso** para comprender profundamente la importante posición de estos paisajes naturales en la cultura natural de El Salvador."
+  }
+}

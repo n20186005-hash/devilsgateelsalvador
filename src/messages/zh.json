@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "title": "Devil's Gate | 魔鬼门",
+    "description": "探索萨尔瓦多潘奇马尔科的 Devil's Gate（魔鬼门/ Puerta del Diablo）。这是一个美丽的公园，拥有壮观的自然风光和远足小径。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Devil's Gate",
+    "subtitle": "Puerta del Diablo · 萨尔瓦多",
+    "rating": "4.6",
+    "reviewCount": "6,588",
+    "hours": "公园",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Devil's Gate",
+    "description": "Devil's Gate（魔鬼门，西班牙语：Puerta del Diablo）位于萨尔瓦多圣萨尔瓦多省的潘奇马尔科。这是一个风景优美的公园，拥有壮观的山景和丰富的自然景观，是萨尔瓦多最受欢迎的旅游景点之一。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园开放时间为 08:00–22:00",
+        "建议穿着舒适的步行鞋",
+        "带上相机拍摄壮观的山景",
+        "携带足够的水和防晒用品"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "壮观的山景：可以俯瞰整个潘奇马尔科和周边的美丽景色。",
+        "自然步道：拥有多条远足小径，适合徒步爱好者。",
+        "凉爽气候：海拔较高，气候凉爽宜人。",
+        "优越位置：位于潘奇马尔科，交通便利。"
+      ]
+    }
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "探索 Devil's Gate 的理想路线，感受自然风光与萨尔瓦多文化的精髓。",
+    "steps": [
+      "从入口处开始，沿着主要步道向上攀登。",
+      "在观景台停留，欣赏壮观的山景和全景。",
+      "继续探索周围的自然步道，感受清新的山间空气。",
+      "在公园内休憩区休息，享受大自然的宁静。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "建议早上前往，可以避开人群并享受清新的空气。",
+      "注意防晒，高海拔地区紫外线较强。",
+      "请带走自己的垃圾，保护自然环境。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Devil's Gate 的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史意义",
+        "content": "Devil's Gate 是萨尔瓦多的重要自然地标，长期以来一直是当地居民和游客喜爱的休闲场所。"
+      },
+      {
+        "id": "nature",
+        "title": "自然景观",
+        "content": "这里拥有壮观的山景和丰富的植被，是体验萨尔瓦多自然之美的绝佳场所。"
+      },
+      {
+        "id": "experience",
+        "title": "游览体验",
+        "content": "在 Devil's Gate 漫步，感受凉爽的山间气候和壮丽的自然风光，这是一次难忘的亲近自然体验。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Devil's Gate (Puerta del Diablo)",
+    "type": "景点类型",
+    "typeValue": "公园",
+    "country": "国家",
+    "countryValue": "萨尔瓦多",
+    "city": "城市",
+    "cityValue": "潘奇马尔科, 圣萨尔瓦多省",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "JRF6+X3 潘奇马尔科, 萨尔瓦多",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "JRF6+X3 潘奇马尔科, 萨尔瓦多"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "公园区域",
+    "outdoorTime": "08:00–22:00",
+    "lighthouse": "最佳游览时间",
+    "summer": "旱季（11月-4月）",
+    "summerTime": "气候更宜人，最适合户外游览",
+    "winter": "雨季（5月-10月）",
+    "winterTime": "天气温暖，下午有雨，携带雨伞",
+    "warning": "重要提示",
+    "warningTime": "建议在参观前核实最新信息",
+    "tip": "白天前往可获得最佳的参观体验"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "outdoor": "公园参观",
+    "outdoorPrice": "免费开放",
+    "lighthouse": "导游服务",
+    "adults": "现场导游",
+    "adultsPrice": "可适当给予小费",
+    "students": "文化体验",
+    "studentsPrice": "周边有众多自然景观",
+    "children": "建议",
+    "childrenPrice": "尊重自然环境，保护生态",
+    "card": "附加服务",
+    "cardPrice": "可购买纪念品"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "最近机场：萨尔瓦多国际机场 (SAL)。从那里可以乘坐公交或出租车前往潘奇马尔科。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "公园位于潘奇马尔科，建议使用导航前往。周边有停车场。",
+    "bus": "公共交通",
+    "busDesc": "可乘坐公共交通前往潘奇马尔科，然后步行或乘坐出租车前往公园。",
+    "intercity": "步行游览",
+    "intercityDesc": "公园内有步行道，可步行游览各个景点。",
+    "cycling": "其他方式",
+    "cyclingDesc": "建议使用公共交通或自驾，公园周边交通便利。",
+    "tips": "出行建议",
+    "tipsDesc": "Devil's Gate 是体验萨尔瓦多自然风光的绝佳场所，建议白天前往。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Devil's Gate 的魅力风光",
+    "captions": [
+      "公园全景",
+      "自然风光",
+      "山景",
+      "公园风貌",
+      "自然景观",
+      "远足小径",
+      "文化景观",
+      "自然风貌",
+      "公园氛围",
+      "自然特色",
+      "自然文化",
+      "公园全貌",
+      "山景风格",
+      "自然痕迹",
+      "自然文化",
+      "自然风光",
+      "公园景观"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Carlos Rivera",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "一个充满自然美景的地方。公园的山景令人难忘，强烈推荐给所有喜欢大自然的游客。"
+      },
+      {
+        "name": "María González",
+        "date": "3周前",
+        "rating": 5,
+        "text": "令人惊叹的自然公园。山景非常壮观，这里是萨尔瓦多自然风光的重要组成部分。"
+      },
+      {
+        "name": "Juan Pérez",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "非常有趣的地方，可以亲近真正的大自然。建议白天前往，那时候光线最好。"
+      },
+      {
+        "name": "Ana Torres",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "萨尔瓦多自然的重要组成部分。公园的景色令人感动，这里是潘奇马尔科必去的地方。"
+      },
+      {
+        "name": "Roberto Silva",
+        "date": "2年前",
+        "rating": 4,
+        "text": "很好的自然体验。山景非常精彩，周边还有很多自然景观。"
+      },
+      {
+        "name": "Sofía Méndez",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "美丽的公园，充满了萨尔瓦多自然的魅力。山景令人难忘，一定要来体验。"
+      },
+      {
+        "name": "Miguel Herrera",
+        "date": "3个月前",
+        "rating": 4,
+        "text": "有趣的自然场所。可以近距离感受大自然，建议保护环境。"
+      },
+      {
+        "name": "Laura Vargas",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "潘奇马尔科的自然瑰宝。Devil's Gate 是了解萨尔瓦多自然的重要场所，一定要来体验。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "JRF6+X3 潘奇马尔科, 萨尔瓦多",
+    "openMaps": "在 Google Maps 查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Devil's Gate. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "mitur": {
+        "name": "萨尔瓦多旅游部",
+        "url": "https://elsalvador.travel/esp/"
+      },
+      "istu": {
+        "name": "萨尔瓦多国家旅游学会",
+        "url": "https://www.transparencia.gob.sv/institutions/istu"
+      },
+      "cultura": {
+        "name": "萨尔瓦多文化部",
+        "url": "https://www.cultura.gob.sv"
+      },
+      "panchimalco": {
+        "name": "潘奇马尔科市议会",
+        "url": "https://www.transparencia.gob.sv/"
+      },
+      "migracion": {
+        "name": "萨尔瓦多移民与外侨总局",
+        "url": "https://www.migracion.gob.sv"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "officialManagement": {
+    "title": "关于 Devil's Gate",
+    "text": "Devil's Gate 是潘奇马尔科的著名自然景观，拥有壮观的山景和丰富的自然文化价值。"
+  },
+  "historyTimeline": {
+    "title": "历史变迁时间线",
+    "items": [
+      {
+        "year": "早期",
+        "title": "早期：自然形成",
+        "plaque": "自然景观（山脉）",
+        "description": "Devil's Gate 是自然形成的壮观山景，长期以来一直是当地居民喜爱的场所。"
+      },
+      {
+        "year": "20世纪",
+        "title": "20 世纪：旅游发展",
+        "plaque": "旅游发展（公园建设）",
+        "description": "随着萨尔瓦多旅游业的发展，Devil's Gate 逐渐成为受欢迎的旅游景点，设施不断完善。"
+      },
+      {
+        "year": "21世纪",
+        "title": "21 世纪：生态旅游胜地",
+        "plaque": "旅游标识（生态旅游）",
+        "description": "进入21世纪，Devil's Gate 凭借其壮观的自然风光，吸引了越来越多的游客，成为萨尔瓦多生态旅游的重要窗口。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以先从**入口处**开始，感受自然的氛围；随后在**观景台**欣赏壮观的山景；接着探索**自然步道**，感受清新的山间空气；最后在**休憩区**休息，深入理解这些自然景观在萨尔瓦多自然文化中的重要地位。"
+  }
+}
