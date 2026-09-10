@@ -3,28 +3,12 @@
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photoFiles = [
-  'devils-gate (1).jpg',
-  'devils-gate (2).jpg',
-  'devils-gate (3).jpg',
-  'devils-gate (4).jpg',
-  'devils-gate (5).jpg',
-  'devils-gate (6).jpg',
-  'devils-gate (7).jpg',
-  'devils-gate (8).jpg',
-  'devils-gate (9).jpg',
-  'devils-gate (10).jpg',
-  'devils-gate (11).jpg',
-  'devils-gate (12).jpg',
-  'devils-gate (13).jpg',
-  'devils-gate (14).jpg',
-  'devils-gate (15).jpg',
-  'devils-gate (16).jpg',
-  'devils-gate (17).jpg',
-  'devils-gate (18).jpg',
-  'devils-gate (19).jpg',
-  'devils-gate (20).jpg',
-];
+// 规范命名：devils-gate-view-N.jpg（xxx-xxx-xxx-N.jpg）
+const PHOTO_COUNT = 20;
+const photoFiles = Array.from(
+  { length: PHOTO_COUNT },
+  (_, i) => `devils-gate-view-${i + 1}.jpg`
+);
 
 export default function Gallery() {
   const t = useTranslations('gallery');
@@ -32,9 +16,13 @@ export default function Gallery() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
 
+  // 图片 Alt 语义绑定：所有照片 alt 均附带景点实体命名（全称 + 城市 + 国家）
+  const entitySuffix = `Devil's Gate (Puerta del Diablo), Panchimalco, El Salvador`;
   const photos = photoFiles.map((file, i) => ({
     src: `/gallery/${file}`,
-    alt: captions?.[i] || `Devil's Gate ${i + 1}`,
+    alt: captions?.[i]
+      ? `${captions[i]} - ${entitySuffix}`
+      : `${entitySuffix} photo ${i + 1}`,
   }));
 
   const visiblePhotos = photos;

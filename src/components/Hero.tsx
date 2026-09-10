@@ -9,8 +9,9 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/devils-gate (1).jpg"
-          alt="Devil's Gate"
+          src="/gallery/devils-gate-view-1.jpg"
+          alt="Devil's Gate (Puerta del Diablo) - Main view in Panchimalco, El Salvador"
+          loading="eager"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
@@ -19,8 +20,11 @@ export default function Hero() {
       {/* Content */}
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
         <div className="max-w-3xl">
-          <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-4 animate-fade-in-up">
+          <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-3 animate-fade-in-up">
             {t('title')}
+            <span className="block mt-3 text-2xl sm:text-3xl md:text-4xl text-white/90">
+              {t('titleSub')}
+            </span>
           </h1>
           <p className="text-lg sm:text-xl text-white/80 mb-8 animate-fade-in-up animation-delay-100 font-light">
             {t('subtitle')}

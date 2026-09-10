@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Devil's Gate | Puerta del Diablo",
-    "description": "Explore Devil's Gate (Puerta del Diablo) in Panchimalco, El Salvador. A beautiful park with spectacular natural scenery and hiking trails."
+    "title": "Devil's Gate (Puerta del Diablo) · Panchimalco, El Salvador - Visitor Guide",
+    "description": "Discover Devil's Gate (Puerta del Diablo), the iconic landmark and park in Panchimalco, San Salvador Department, El Salvador. View location map, opening details, nearby landmarks (San Vicente Volcano, Lake Ilopango) and travel tips."
   },
   "header": {
     "home": "Home",
@@ -12,15 +12,23 @@
   },
   "hero": {
     "title": "Devil's Gate",
-    "subtitle": "Puerta del Diablo · El Salvador",
+    "titleSub": "(Puerta del Diablo) · Panchimalco, El Salvador",
+    "subtitle": "Complete visitor guide with location map, history, opening hours and travel tips.",
     "rating": "4.6",
-    "reviewCount": "6,588",
+    "reviewCount": "6,873",
     "hours": "Park",
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Explore Devil's Gate",
+    "title": "About Devil's Gate",
     "description": "Devil's Gate (Puerta del Diablo) is located in Panchimalco, San Salvador Department, El Salvador. It is a beautiful park with spectacular mountain views and rich natural landscapes, making it one of the most popular tourist attractions in El Salvador.",
+    "identity": "Welcome to Devil's Gate, widely recognized as the central Puerta del Diablo. Located in the heart of Panchimalco, in the San Salvador Department of El Salvador, this destination serves as a primary hub for travelers visiting the region.",
+    "geoPath": [
+      "Devil's Gate",
+      "Panchimalco",
+      "San Salvador Department",
+      "El Salvador"
+    ],
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
@@ -215,12 +223,15 @@
     ]
   },
   "mapSection": {
-    "title": "Location & Map",
+    "title": "Location & Map of Devil's Gate in Panchimalco",
     "subtitle": "JRF6+X3 Panchimalco, El Salvador",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialPortalLabel": "For official updates and regional tourism information, visit:",
+    "officialPortalName": "El Salvador Official Tourism Portal (MITUR)"
   },
   "footer": {
     "rights": "© 2026 Devil's Gate. All rights reserved.",
+    "imageRights": "All images displayed on this website are the property of their respective photographers. All image rights and copyrights belong to the original creators.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
@@ -344,11 +355,11 @@
     "rejectAll": "Reject All"
   },
   "officialManagement": {
-    "title": "About Devil's Gate",
+    "title": "Management & Official Information",
     "text": "Devil's Gate (Puerta del Diablo) is officially managed and maintained by the Salvadoran Institute of Tourism (ISTU - Instituto Salvadoreño de Turismo). In recent years, ISTU has carried out comprehensive facility upgrades to provide a safer and more comfortable ecotourism and extreme sports experience."
   },
   "historyTimeline": {
-    "title": "Historical Timeline",
+    "title": "History & Significance of Devil's Gate",
     "items": [
       {
         "year": "18th Century",
@@ -371,5 +382,333 @@
     ],
     "guideTitle": "Visitor Guide Tip",
     "guideContent": "When visiting, you can start from the **entrance** to feel the natural atmosphere; then enjoy the spectacular mountain views at the **viewpoint**; next, explore the **nature trails** to feel the fresh mountain air; finally, rest at the **rest area** to deeply understand the important position of these natural landscapes in El Salvador's natural culture."
+  },
+  "nearby": {
+    "title": "Landmarks & Attractions Around Devil's Gate",
+    "description": "When visiting Devil's Gate, visitors can easily explore surrounding landmarks and points of interest, including the San Vicente Volcano (Chinchontepec) and Lake Ilopango, which can be admired from the park's viewpoints on clear days.",
+    "items": [
+      {
+        "name": "San Vicente Volcano (Chinchontepec)",
+        "note": "On clear days, this iconic Salvadoran volcano can be seen in the distance from the viewpoints of Devil's Gate."
+      },
+      {
+        "name": "Lake Ilopango",
+        "note": "El Salvador's famous volcanic crater lake, whose wide waters and surrounding volcanic landscape can be viewed from the heights of the park."
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ - Frequently Asked Questions",
+    "subtitle": "Common questions and answers about Devil's Gate (Puerta del Diablo).",
+    "items": [
+      {
+        "q": "Where is Devil's Gate located?",
+        "a": "Devil's Gate (Puerta del Diablo) is located in Panchimalco, San Salvador Department, El Salvador, about 20-30 minutes by road from downtown San Salvador."
+      },
+      {
+        "q": "Is Puerta del Diablo free to visit?",
+        "a": "Basic park admission is free. Small fees may apply for access to the main observation deck (Peñas) and parking."
+      },
+      {
+        "q": "What are the opening hours?",
+        "a": "The park area is open every day from 08:00 to 22:00."
+      },
+      {
+        "q": "What can you see from Devil's Gate?",
+        "a": "On clear days you can overlook Panchimalco and see the San Vicente Volcano, Lake Ilopango, and even the Pacific coastline in the distance."
+      },
+      {
+        "q": "How do you get to Puerta del Diablo?",
+        "a": "From San Salvador, drive along the Los Planes de Renderos road (about 20-30 minutes) or take the Route 12 minibus (Microbús Ruta 12). From El Salvador International Airport (SAL) it is about a 45-minute drive."
+      },
+      {
+        "q": "When is the best time to visit?",
+        "a": "The dry season (November to April) is ideal for visiting. Arrive in the morning to avoid crowds and enjoy the best light."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "description": "Information on this site is compiled from the following official and authoritative sources for visitors to verify before travelling.",
+    "links": [
+      {
+        "name": "Ministry of Tourism of El Salvador (MITUR) - Official Tourism Portal",
+        "url": "https://elsalvador.travel/esp/"
+      },
+      {
+        "name": "Salvadoran Institute of Tourism (ISTU)",
+        "url": "https://www.transparencia.gob.sv/institutions/istu"
+      },
+      {
+        "name": "Ministry of Culture of El Salvador",
+        "url": "https://www.cultura.gob.sv"
+      },
+      {
+        "name": "Google Maps - Devil's Gate Location & Visitor Reviews",
+        "url": "https://maps.app.goo.gl/piTumZua8o8Wvam17"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Live Weather & Forecast",
+    "subtitle": "Current conditions and the outlook ahead, from a viewpoint high on the mountain.",
+    "location": "Panchimalco · San Salvador, El Salvador",
+    "updated": "Updated",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "windUnit": "km/h",
+    "precip": "Rain chance",
+    "uv": "UV index",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "today": "Today",
+    "weekly": "Next 7 days",
+    "loading": "Loading weather data…",
+    "unavailable": "Weather data is temporarily unavailable. Please refresh and try again.",
+    "dow": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "code": {
+      "0": "Clear sky",
+      "1": "Mostly clear",
+      "2": "Partly cloudy",
+      "3": "Overcast",
+      "45": "Fog",
+      "48": "Depositing rime fog",
+      "51": "Light drizzle",
+      "53": "Drizzle",
+      "55": "Dense drizzle",
+      "56": "Freezing drizzle",
+      "57": "Dense freezing drizzle",
+      "61": "Light rain",
+      "63": "Rain",
+      "65": "Heavy rain",
+      "66": "Freezing rain",
+      "67": "Heavy freezing rain",
+      "71": "Light snow",
+      "73": "Snow",
+      "75": "Heavy snow",
+      "77": "Snow grains",
+      "80": "Rain showers",
+      "81": "Heavy showers",
+      "82": "Violent showers",
+      "85": "Snow showers",
+      "86": "Heavy snow showers",
+      "95": "Thunderstorm",
+      "96": "Thunderstorm with hail",
+      "99": "Severe thunderstorm with hail"
+    }
+  },
+  "facilities": {
+    "title": "Visitor Services & Nearby Facilities",
+    "subtitle": "A neutral overview by type only, with no specific businesses recommended. Please confirm current operation on site.",
+    "onsiteTitle": "On-site services",
+    "onsite": [
+      "Information & ticket desk: entry rules, maps and enquiries",
+      "Public restrooms (WC): located near the entrance and main viewing areas",
+      "Viewing platforms, guarded walkways and rest benches",
+      "Food stalls: located within the park area",
+      "Paid parking: vehicle parking near the entrance",
+      "Emergency guidance: on-site staff and first-aid notices"
+    ],
+    "groupsTitle": "Nearby facilities by type (no business endorsements)",
+    "groups": [
+      {
+        "name": "Dining",
+        "items": [
+          "Local family restaurants and traditional eateries (Salvadoran cuisine)",
+          "Stalls and street food (pupusas, corn-based snacks, fresh juices)",
+          "Occasional simple cafés along the viewpoints"
+        ]
+      },
+      {
+        "name": "Lodging",
+        "items": [
+          "Inns, guesthouses and family hotels in Panchimalco and Los Planes de Renderos",
+          "Wider choice of hotels in San Salvador city (budget to mid-range and up)",
+          "Book ahead on weekends and peak season"
+        ]
+      },
+      {
+        "name": "Shops & convenience",
+        "items": [
+          "Supermarkets, convenience stores and local markets in town and along the main road",
+          "Bottled water, snacks, sunscreen and basic supplies available"
+        ]
+      },
+      {
+        "name": "Fuel & charging",
+        "items": [
+          "Petrol stations along the route (gasoline/diesel); check your fuel before driving",
+          "EV charging points are limited; plan your charge and stops in advance",
+          "Some guesthouses may offer power outlets for charging; call ahead to confirm"
+        ]
+      },
+      {
+        "name": "Health & safety",
+        "items": [
+          "Pharmacies and basic clinics in the town",
+          "Call local emergency and police numbers when needed",
+          "Mountain roads are winding and steep; drive with care at night"
+        ]
+      }
+    ],
+    "notice": "Note: mountain facilities are limited. Travel by day and plan supplies and your return in advance."
+  },
+  "seasonal": {
+    "title": "Seasonal Visiting Strategy - When to Go",
+    "subtitle": "A neutral, season-by-season reference based on the typical mountain climate, visibility and crowds in central El Salvador.",
+    "factorLabels": ["Weather & comfort", "Views & cloud sea", "Crowds", "What to bring"],
+    "ratingLabel": "Overall rating",
+    "seasons": [
+      {
+        "name": "Dry season",
+        "months": "Nov - Apr",
+        "factors": [
+          "Little rain, many sunny days; warm days and cooler mornings/evenings",
+          "Clear air and crisp views of volcanoes and lakes; great for sunrise",
+          "Busiest period; crowded at weekends and holidays, parking fills early",
+          "Light jacket, sunscreen and plenty of water"
+        ],
+        "rating": "★★★★★"
+      },
+      {
+        "name": "Early wet season",
+        "months": "May - Jul",
+        "factors": [
+          "Hot mornings with frequent afternoon showers; humid feel",
+          "Shifting clouds; seas of cloud after rain, rich photo subjects",
+          "Noticeably fewer visitors, calmer viewpoints and parking",
+          "Compact rain gear, non-slip shoes and a dry bag"
+        ],
+        "rating": "★★★☆☆"
+      },
+      {
+        "name": "Late wet season",
+        "months": "Aug - Oct",
+        "factors": [
+          "Peak rainfall with occasional thunderstorms; varying visibility",
+          "Frequent cloud formations, but distant views often hidden",
+          "Quietest season; check warnings before you go",
+          "Rain gear essential; postpone on severe-weather days and avoid high ground"
+        ],
+        "rating": "★★☆☆☆"
+      }
+    ],
+    "tipTitle": "In a sentence",
+    "tip": "For clear far views choose a dry-season morning; for dramatic cloud scenes try the breaks between wet-season showers. In any season, avoid summits during strong thunderstorms."
+  },
+  "crowdRoutes": {
+    "title": "Routes Tailored to Your Group",
+    "subtitle": "Pick the option that best matches your travel party and preferred pace.",
+    "tags": ["Best for", "Suggested time", "Physical effort", "Pace"],
+    "items": [
+      {
+        "key": "family",
+        "name": "Families with Children",
+        "audience": "Families with kids and group travellers",
+        "duration": "About 2.5-3.5 hours",
+        "effort": "Easy",
+        "pace": "Slow pace with plenty of rest stops",
+        "route": [
+          "Collect a map at the entrance and note the restroom location",
+          "Walk the main path to the main viewpoint, pausing at flat rest spots",
+          "Enjoy the panorama and tell kids the story of the volcanoes and lake",
+          "Rest and rehydrate at the snack area on the way back"
+        ],
+        "tip": "Keep children close at all times, stay behind the rails and avoid the midday heat."
+      },
+      {
+        "key": "photo",
+        "name": "Photography & Nature Watching",
+        "audience": "Sunrise/sunset shooters, cloud-sea and birdwatchers",
+        "duration": "About 3-4 hours",
+        "effort": "Moderate",
+        "pace": "Spot-driven; you may stay long at the same location",
+        "route": [
+          "Arrive before sunrise to set up for morning light and cloud seas",
+          "Walk the trails to watch mountain vegetation and birds",
+          "Use side light to capture rock formations and layered ridges",
+          "Return before sunset to record warm valley light"
+        ],
+        "tip": "Bring both wide-angle and telephoto lenses; cloud seas often appear after rain clears."
+      },
+      {
+        "key": "accessible",
+        "name": "Low-Strain / Accessibility-Friendly",
+        "audience": "Seniors, expectant mothers and visitors with limited mobility",
+        "duration": "About 1-2 hours",
+        "effort": "Low",
+        "pace": "Short out-and-back; go at your own pace",
+        "route": [
+          "Ask on-site staff which areas are currently reachable",
+          "Walk slowly on the paved main route towards the viewpoints",
+          "Choose a close viewpoint and rest spot; avoid long climbs",
+          "Return the same way to the entrance whenever you wish"
+        ],
+        "tip": "Slopes are steep in places. Assess your own condition, carry any medication and ask a companion for support if needed."
+      }
+    ]
+  },
+  "itineraries": {
+    "title": "Recommended General Itineraries",
+    "subtitle": "Two reference routes you can adjust to live crowds and weather.",
+    "cards": [
+      {
+        "name": "Half-Day Highlights",
+        "total": "About 3-4 hours in total",
+        "steps": [
+          "Arrive at the entrance; buy tickets and grab a map",
+          "Climb the main path to the viewing platform and look over Panchimalco and the ridges",
+          "Follow the loop around the viewpoints for different perspectives",
+          "Lunch and rest at the snack area",
+          "Return to the entrance to finish the half-day trip"
+        ]
+      },
+      {
+        "name": "Full-Day Experience",
+        "total": "About 6-8 hours in total",
+        "steps": [
+          "Start early to catch the sunrise and cloud sea (best light)",
+          "Explore deeper trails to observe mountain ecology and geology",
+          "Return to the dining area around noon to avoid the strongest sun",
+          "In the afternoon head down to the town and wander Panchimalco's old centre",
+          "Return to the viewpoint at dusk for sunset and valley light",
+          "Head down before dark (lighting is limited in the mountains)"
+        ]
+      }
+    ],
+    "note": "Note: these are reference routes only. Combine them with opening hours, weather and your own stamina."
+  },
+  "science": {
+    "title": "Nature Facts & Visitor Responsibility",
+    "subtitle": "Learn the geology and the legends - and help protect this mountain landscape.",
+    "topicsTitle": "Mountain mini-guide",
+    "topics": [
+      {
+        "title": "Where the name comes from: a local legend",
+        "content": "The name 'Puerta del Diablo' (Devil's Gate) comes from folklore passed down among locals. A common telling is that the gap between the great rocks looks like a doorway, and people believed this door would open after nightfall; others say the name reflects a rock silhouette that resembles a devilish face in certain light. Today it is one of El Salvador's most recognisable place names."
+      },
+      {
+        "title": "Geology: a gift of the volcanoes",
+        "content": "The viewpoint sits on part of the volcanic mountain belt of south-central El Salvador. Over millennia, volcanic deposits built up here before tectonic activity and heavy rains cracked and eroded the rock along fissures, eventually carving the 'gate' between two facing towers. The ground beneath your feet, and the distant San Vicente Volcano and Lake Ilopango, all belong to this same restless geological family."
+      },
+      {
+        "title": "Mountain ecology: life above the clouds",
+        "content": "Above 1,000 metres, sea breezes and moisture lifted by the hills often shroud the viewpoint in mist. This cool, humid environment supports dense woodland and epiphytes, and is a fine place to watch birds and insects - especially vibrant during the wet season."
+      },
+      {
+        "title": "Human roots: echoes of Nahua-Pipil culture",
+        "content": "Panchimalco is one of the towns in El Salvador where the Nahua-Pipil language and traditions remain most deeply rooted, celebrated through festivals such as the Flowers and Palms (Flores y Palmas) in May. Learning about the area's indigenous heritage makes the view from above feel richer still."
+      }
+    ],
+    "responsibilityTitle": "Visitor responsibility & safety",
+    "responsibilityItems": [
+      "Stay on open paths and viewpoints; never climb over rails or rock faces",
+      "Leave high ground immediately in thunderstorms or strong wind and follow staff guidance",
+      "Carry water and sun/heat protection; mountain weather changes quickly",
+      "Do not feed or disturb wildlife, pick plants or leave litter",
+      "Supervise children and walk carefully on wet or steep sections",
+      "Contact on-site staff or local emergency numbers when you need help"
+    ]
   }
 }

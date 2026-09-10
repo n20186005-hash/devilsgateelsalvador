@@ -26,14 +26,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Devil's+Gate,+Panchimalco,+El+Salvador&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6896.769424132211!2d-89.1923423!3d13.6249153!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f6333dd4dd8b4a9%3A0x64ab35fb0d7621fa!2sDevil's%20Gate!5e1!3m2!1szh-CN!2s!4v1788847814394!5m2!1szh-CN!2s"
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Devil's Gate"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title="Google Maps - Devil's Gate (Puerta del Diablo) in Panchimalco, El Salvador"
           />
         </div>
 
@@ -56,6 +56,20 @@ export default function MapEmbed() {
               <polyline points="15 3 21 3 21 9" />
               <line x1="10" y1="14" x2="21" y2="3" />
             </svg>
+          </a>
+        </div>
+
+        {/* 权威出站链接：政府/官方旅游局 */}
+        <div className="mt-8 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {t('officialPortalLabel')}{' '}
+          <a
+            href="https://elsalvador.travel/esp/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialPortalName')}
           </a>
         </div>
       </div>

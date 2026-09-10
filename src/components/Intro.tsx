@@ -6,6 +6,7 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const geoPath: string[] = messages?.intro?.geoPath || [];
 
   return (
     <section className="section-padding">
@@ -17,6 +18,36 @@ export default function Intro() {
           {t('title')}
         </h2>
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
+
+        {/* 首段等位声明：将域名含义与官方全称在语义上等同 */}
+        <p className="text-lg leading-relaxed mb-6" style={{ color: 'var(--text-primary)' }}>
+          {t('identity')}
+        </p>
+
+        {/* 地理面包屑与归属层级 */}
+        {geoPath.length > 0 && (
+          <nav aria-label="Location breadcrumb" className="mb-6">
+            <ol className="flex flex-wrap items-center gap-2 text-sm">
+              {geoPath.map((item, i) => (
+                <li key={i} className="flex items-center gap-2">
+                  {i > 0 && (
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" style={{ color: 'var(--text-muted)' }}>
+                      <polyline points="9 18 15 12 9 6" />
+                    </svg>
+                  )}
+                  <span
+                    className={i === geoPath.length - 1 ? 'font-semibold' : ''}
+                    style={{
+                      color: i === geoPath.length - 1 ? 'var(--accent)' : 'var(--text-secondary)',
+                    }}
+                  >
+                    {item}
+                  </span>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
 
         <p
           className="text-lg leading-relaxed mb-12"

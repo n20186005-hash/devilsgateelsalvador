@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Devil's Gate | Puerta del Diablo",
-    "description": "Explora Devil's Gate (Puerta del Diablo) en Panchimalco, El Salvador. Un hermoso parque con paisajes naturales espectaculares y senderos para caminatas."
+    "title": "Puerta del Diablo (Devil's Gate) · Panchimalco, El Salvador - Guía del Visitante",
+    "description": "Descubre Puerta del Diablo (Devil's Gate), el emblemático parque de Panchimalco, Departamento de San Salvador, El Salvador. Ver mapa de ubicación, horarios, lugares cercanos (Volcán de San Vicente, Lago de Ilopango) y consejos de viaje."
   },
   "header": {
     "home": "Inicio",
@@ -12,15 +12,23 @@
   },
   "hero": {
     "title": "Devil's Gate",
-    "subtitle": "Puerta del Diablo · El Salvador",
+    "titleSub": "(Puerta del Diablo) · Panchimalco, El Salvador",
+    "subtitle": "Guía completa del visitante: mapa de ubicación, historia, horarios y consejos de viaje.",
     "rating": "4.6",
-    "reviewCount": "6,588",
+    "reviewCount": "6,873",
     "hours": "Parque",
     "openMaps": "Ver Ubicación"
   },
   "intro": {
-    "title": "Explora Devil's Gate",
+    "title": "Acerca de Devil's Gate",
     "description": "Devil's Gate (Puerta del Diablo) se encuentra en Panchimalco, Departamento de San Salvador, El Salvador. Es un hermoso parque con vistas espectaculares de montaña y ricos paisajes naturales, siendo una de las atracciones turísticas más populares de El Salvador.",
+    "identity": "Bienvenido a Puerta del Diablo, ampliamente reconocida como el icónico Devil's Gate. Situada en el corazón de Panchimalco, en el Departamento de San Salvador, El Salvador, este destino es un punto de referencia principal para los viajeros que visitan la región.",
+    "geoPath": [
+      "Puerta del Diablo",
+      "Panchimalco",
+      "Departamento de San Salvador",
+      "El Salvador"
+    ],
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -215,12 +223,15 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación y Mapa",
+    "title": "Ubicación y Mapa de Puerta del Diablo en Panchimalco",
     "subtitle": "JRF6+X3 Panchimalco, El Salvador",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "officialPortalLabel": "Para actualizaciones oficiales e información turística regional, visite:",
+    "officialPortalName": "Portal Oficial de Turismo de El Salvador (MITUR)"
   },
   "footer": {
     "rights": "© 2026 Devil's Gate. Todos los derechos reservados.",
+    "imageRights": "Todas las imágenes mostradas en este sitio web pertenecen a sus respectivos fotógrafos. Todos los derechos y derechos de autor pertenecen a los creadores originales.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
@@ -344,11 +355,11 @@
     "rejectAll": "Rechazar Todas"
   },
   "officialManagement": {
-    "title": "Acerca de Devil's Gate",
+    "title": "Gestión e Información Oficial",
     "text": "La Puerta del Diablo es administrada y mantenida oficialmente por el Instituto Salvadoreño de Turismo (ISTU). En los últimos años, el ISTU ha llevado a cabo mejoras integrales en las instalaciones para ofrecer una experiencia de ecoturismo y deportes extremos más segura y cómoda."
   },
   "historyTimeline": {
-    "title": "Cronología Histórica",
+    "title": "Historia e Importancia de Puerta del Diablo",
     "items": [
       {
         "year": "Siglo XVIII",
@@ -371,5 +382,333 @@
     ],
     "guideTitle": "Consejo de Guía para Visitantes",
     "guideContent": "Al visitar, puedes comenzar desde la **entrada** para sentir la atmósfera natural; luego disfruta de las espectaculares vistas de montaña en el **mirador**; a continuación, explora los **senderos naturales** para sentir el fresco aire de montaña; finalmente, descansa en el **área de descanso** para comprender profundamente la importante posición de estos paisajes naturales en la cultura natural de El Salvador."
+  },
+  "nearby": {
+    "title": "Lugares y Atracciones Alrededor de Puerta del Diablo",
+    "description": "Al visitar Puerta del Diablo, los visitantes pueden explorar fácilmente los puntos de referencia y atracciones cercanas, incluidos el Volcán de San Vicente (Chinchontepec) y el Lago de Ilopango, que pueden admirarse desde los miradores del parque en días despejados.",
+    "items": [
+      {
+        "name": "Volcán de San Vicente (Chinchontepec)",
+        "note": "En días despejados, este icónico volcán salvadoreño puede verse a lo lejos desde los miradores de Puerta del Diablo."
+      },
+      {
+        "name": "Lago de Ilopango",
+        "note": "El famoso lago volcánico de El Salvador, cuyas amplias aguas y su paisaje volcánico pueden contemplarse desde las alturas del parque."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "subtitle": "Preguntas y respuestas comunes sobre Puerta del Diablo (Devil's Gate).",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra Puerta del Diablo?",
+        "a": "Puerta del Diablo (Devil's Gate) se encuentra en Panchimalco, Departamento de San Salvador, El Salvador, a unos 20-30 minutos en coche del centro de San Salvador."
+      },
+      {
+        "q": "¿Es gratuita la visita a Puerta del Diablo?",
+        "a": "La entrada básica al parque es gratuita. Puede haber pequeñas tarifas por el acceso al mirador principal (Peñas) y el estacionamiento."
+      },
+      {
+        "q": "¿Cuáles son los horarios de apertura?",
+        "a": "El área del parque está abierta todos los días de 08:00 a 22:00."
+      },
+      {
+        "q": "¿Qué se puede ver desde Puerta del Diablo?",
+        "a": "En días despejados se puede contemplar Panchimalco y ver el Volcán de San Vicente, el Lago de Ilopango e incluso la costa del Pacífico a lo lejos."
+      },
+      {
+        "q": "¿Cómo se llega a Puerta del Diablo?",
+        "a": "Desde San Salvador, conduzca por la carretera a Los Planes de Renderos (unos 20-30 minutos) o tome el microbús de la Ruta 12. Desde el Aeropuerto Internacional de El Salvador (SAL), el trayecto en coche es de unos 45 minutos."
+      },
+      {
+        "q": "¿Cuál es la mejor época para visitar?",
+        "a": "La temporada seca (noviembre a abril) es ideal para la visita. Se recomienda llegar por la mañana para evitar multitudes y disfrutar de la mejor luz."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y Referencias",
+    "description": "La información de este sitio se ha recopilado de las siguientes fuentes oficiales y autorizadas para que los visitantes la verifiquen antes de viajar.",
+    "links": [
+      {
+        "name": "Ministerio de Turismo de El Salvador (MITUR) - Portal Oficial de Turismo",
+        "url": "https://elsalvador.travel/esp/"
+      },
+      {
+        "name": "Instituto Salvadoreño de Turismo (ISTU)",
+        "url": "https://www.transparencia.gob.sv/institutions/istu"
+      },
+      {
+        "name": "Ministerio de Cultura de El Salvador",
+        "url": "https://www.cultura.gob.sv"
+      },
+      {
+        "name": "Google Maps - Ubicación y Reseñas de Devil's Gate",
+        "url": "https://maps.app.goo.gl/piTumZua8o8Wvam17"
+      }
+    ]
+  },
+  "weather": {
+    "title": "Clima en Vivo y Pronóstico",
+    "subtitle": "Condiciones actuales y tendencia de los próximos días, vistas desde el mirador de la montaña.",
+    "location": "Panchimalco · San Salvador, El Salvador",
+    "updated": "Actualizado",
+    "feelsLike": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "windUnit": "km/h",
+    "precip": "Prob. de lluvia",
+    "uv": "Índice UV",
+    "sunrise": "Amanecer",
+    "sunset": "Atardecer",
+    "today": "Hoy",
+    "weekly": "Próximos 7 días",
+    "loading": "Cargando datos del clima…",
+    "unavailable": "Los datos del clima no están disponibles por el momento. Actualice la página e intente de nuevo.",
+    "dow": ["dom", "lun", "mar", "mié", "jue", "vie", "sáb", "dom"],
+    "code": {
+      "0": "Despejado",
+      "1": "Mayormente despejado",
+      "2": "Parcialmente nublado",
+      "3": "Cubierto",
+      "45": "Niebla",
+      "48": "Niebla con cencellada",
+      "51": "Llovizna débil",
+      "53": "Llovizna",
+      "55": "Llovizna densa",
+      "56": "Llovizna helada",
+      "57": "Llovizna helada densa",
+      "61": "Lluvia débil",
+      "63": "Lluvia",
+      "65": "Lluvia fuerte",
+      "66": "Lluvia helada",
+      "67": "Lluvia helada fuerte",
+      "71": "Nieve débil",
+      "73": "Nieve",
+      "75": "Nieve fuerte",
+      "77": "Granos de nieve",
+      "80": "Chubascos de lluvia",
+      "81": "Chubascos fuertes",
+      "82": "Chubascos violentos",
+      "85": "Chubascos de nieve",
+      "86": "Chubascos de nieve fuertes",
+      "95": "Tormenta eléctrica",
+      "96": "Tormenta con granizo",
+      "99": "Tormenta severa con granizo"
+    }
+  },
+  "facilities": {
+    "title": "Servicios para Visitantes y Alrededores",
+    "subtitle": "Resumen neutral por tipo, sin recomendar ningún negocio concreto. Confirme la operación actual en el lugar.",
+    "onsiteTitle": "Servicios en el parque",
+    "onsite": [
+      "Punto de información y venta de entradas: normas, mapas y consultas",
+      "Servicios sanitarios (WC): cerca de la entrada y de las zonas principales de miradores",
+      "Plataformas de observación, pasarelas con barandilla y bancos de descanso",
+      "Puestos de comida: ubicados dentro del parque",
+      "Estacionamiento de pago: zona para vehículos junto a la entrada",
+      "Orientación ante emergencias: personal en sitio y avisos de primeros auxilios"
+    ],
+    "groupsTitle": "Servicios cercanos por tipo (sin menciones comerciales)",
+    "groups": [
+      {
+        "name": "Restaurantes",
+        "items": [
+          "Restaurantes familiares locales y comida tradicional salvadoreña",
+          "Puestos y comida callejera (pupusas, snacks de maíz, jugos frescos)",
+          "Cafés sencillos ocasionales a lo largo de los miradores"
+        ]
+      },
+      {
+        "name": "Alojamiento",
+        "items": [
+          "Hostales, casas de huéspedes y hoteles familiares en Panchimalco y Los Planes de Renderos",
+          "Mayor variedad de hoteles en San Salvador (económicos a gama media y superior)",
+          "Reserve con antelación en fines de semana y temporada alta"
+        ]
+      },
+      {
+        "name": "Tiendas y conveniencia",
+        "items": [
+          "Supermercados, tiendas de conveniencia y mercados locales en el pueblo y junto a la carretera principal",
+          "Se consiguen agua embotellada, snacks, protector solar y artículos básicos"
+        ]
+      },
+      {
+        "name": "Combustible y carga",
+        "items": [
+          "Gasolineras en la ruta (gasolina/diésel); revise el combustible antes de salir",
+          "Los puntos de carga para vehículos eléctricos son escasos; planifique su carga con anticipación",
+          "Algunas casas de huéspedes pueden ofrecer tomacorrientes; confírmelo por teléfono"
+        ]
+      },
+      {
+        "name": "Salud y seguridad",
+        "items": [
+          "Farmacias y centros de salud básicos en el pueblo",
+          "Llame a los números locales de emergencia y policía cuando lo necesite",
+          "Las carreteras de montaña son sinuosas y empinadas; conduzca con cuidado de noche"
+        ]
+      }
+    ],
+    "notice": "Nota: los servicios de montaña son limitados. Viaje de día y planifique provisiones y el regreso con antelación."
+  },
+  "seasonal": {
+    "title": "Estrategia de Visita por Temporada - Cuándo Ir",
+    "subtitle": "Referencia neutral por temporada según el clima, la visibilidad y las multitudes típicas de la zona montañosa de El Salvador.",
+    "factorLabels": ["Clima y comodidad", "Vistas y mar de nubes", "Multitudes", "Qué llevar"],
+    "ratingLabel": "Valoración general",
+    "seasons": [
+      {
+        "name": "Temporada seca",
+        "months": "Nov - Abr",
+        "factors": [
+          "Pocas lluvias y muchos días soleados; días cálidos y mañanas/tardes frescas",
+          "Aire despejado y vistas nítidas de volcanes y lagos; ideal al amanecer",
+          "Época más concurrida; fines de semana y feriados con más gente y estacionamiento lleno",
+          "Chaqueta ligera, protector solar y abundante agua"
+        ],
+        "rating": "★★★★★"
+      },
+      {
+        "name": "Inicio de lluvias",
+        "months": "May - Jul",
+        "factors": [
+          "Mañanas calurosas con aguaceros frecuentes por la tarde; ambiente húmedo",
+          "Nubes cambiantes y mares de nubes tras la lluvia; ricos temas fotográficos",
+          "Muchos menos visitantes; miradores y estacionamiento más tranquilos",
+          "Impermeable compacto, calzado antideslizante y bolsa seca"
+        ],
+        "rating": "★★★☆☆"
+      },
+      {
+        "name": "Final de lluvias",
+        "months": "Ago - Oct",
+        "factors": [
+          "Mayor concentración de lluvias con tormentas ocasionales; visibilidad variable",
+          "Frecuentes formaciones de nubes, pero las vistas lejanas suelen ocultarse",
+          "Temporada más tranquila; consulte los avisos antes de salir",
+          "Impermeable imprescindible; posponga la visita en días severos y evite las alturas"
+        ],
+        "rating": "★★☆☆☆"
+      }
+    ],
+    "tipTitle": "En una frase",
+    "tip": "Para vistas lejanas nítidas elija una mañana de temporada seca; para escenas de nubes dramáticas, pruebe entre aguaceros de lluvia. En cualquier época, evite las cumbres durante tormentas eléctricas fuertes."
+  },
+  "crowdRoutes": {
+    "title": "Rutas Según tu Grupo",
+    "subtitle": "Elija la opción que mejor se adapte a su grupo y ritmo preferido.",
+    "tags": ["Ideal para", "Tiempo sugerido", "Esfuerzo físico", "Ritmo"],
+    "items": [
+      {
+        "key": "family",
+        "name": "Familias con Niños",
+        "audience": "Familias con niños y grupos de viajeros",
+        "duration": "Unas 2.5-3.5 horas",
+        "effort": "Fácil",
+        "pace": "Ritmo lento con varias paradas de descanso",
+        "route": [
+          "Tome un mapa en la entrada y ubique los baños",
+          "Camine el sendero principal hasta el mirador, descansando en zonas planas",
+          "Disfrute del panorama y cuente a los niños la historia de volcanes y lagos",
+          "Descanse e hidrátese en el área de comida al regresar"
+        ],
+        "tip": "Mantenga a los niños cerca, no cruce las barandillas y evite el calor del mediodía."
+      },
+      {
+        "key": "photo",
+        "name": "Fotografía y Observación de Naturaleza",
+        "audience": "Fotógrafos de amanecer/atardecer y observadores de aves",
+        "duration": "Unas 3-4 horas",
+        "effort": "Moderado",
+        "pace": "Enfocado en tomas; puede permanecer mucho tiempo en un lugar",
+        "route": [
+          "Llegue antes del amanecer para captar la luz y los mares de nubes",
+          "Recorra los senderos observando vegetación y aves de montaña",
+          "Aproveche la luz lateral para las formaciones rocosas y los relieves",
+          "Vuelva antes del atardecer para registrar la luz cálida del valle"
+        ],
+        "tip": "Lleve lente gran angular y telefoto; los mares de nubes suelen aparecer tras la lluvia."
+      },
+      {
+        "key": "accessible",
+        "name": "Ruta de Bajo Esfuerzo / Accesible",
+        "audience": "Adultos mayores, embarazadas y personas con movilidad reducida",
+        "duration": "Unas 1-2 horas",
+        "effort": "Bajo",
+        "pace": "Trayecto corto de ida y vuelta; a su propio ritmo",
+        "route": [
+          "Pregunte al personal qué zonas son accesibles actualmente",
+          "Camine con calma por el camino principal pavimentado hacia los miradores",
+          "Elija un mirador y una zona de descanso cercanos; evite subidas largas",
+          "Regrese por el mismo camino cuando lo desee"
+        ],
+        "tip": "Hay pendientes pronunciadas. Evalúe su condición, lleve sus medicamentos y pida apoyo a un acompañante si lo necesita."
+      }
+    ]
+  },
+  "itineraries": {
+    "title": "Itinerarios Generales Recomendados",
+    "subtitle": "Dos rutas de referencia que puede ajustar según las multitudes y el clima.",
+    "cards": [
+      {
+        "name": "Lo Esencial en Medio Día",
+        "total": "Unas 3-4 horas en total",
+        "steps": [
+          "Llegue a la entrada; compre boletos y tome un mapa",
+          "Suba el sendero principal a la plataforma y observe Panchimalco y las cumbres",
+          "Recorra el circuito de miradores para distintas perspectivas",
+          "Almuerce y descanse en el área de comida",
+          "Regrese a la entrada para finalizar el recorrido de medio día"
+        ]
+      },
+      {
+        "name": "Experiencia de Día Completo",
+        "total": "Unas 6-8 horas en total",
+        "steps": [
+          "Salga temprano para captar el amanecer y el mar de nubes (mejor luz)",
+          "Explore senderos más profundos observando ecología y geología",
+          "Regrese a la zona de comida al mediodía para evitar el sol fuerte",
+          "Por la tarde baje al pueblo y pasee por el centro antiguo de Panchimalco",
+          "Vuelva al mirador al anochecer para el atardecer y la luz del valle",
+          "Descienda antes de que oscurezca (la iluminación en la montaña es limitada)"
+        ]
+      }
+    ],
+    "note": "Nota: son rutas de referencia. Combínelas con los horarios, el clima y su propia condición física."
+  },
+  "science": {
+    "title": "Divulgación y Responsabilidad del Visitante",
+    "subtitle": "Conozca la geología y las leyendas, y también ayude a cuidar este paisaje de montaña.",
+    "topicsTitle": "Mini guía de montaña",
+    "topics": [
+      {
+        "title": "De dónde viene el nombre: una leyenda local",
+        "content": "El nombre 'Puerta del Diablo' proviene del folclore transmitido por los lugareños. Una versión común dice que la brecha entre las grandes rocas parece una puerta, y se creía que esa puerta se abría al caer la noche; otros señalan que el nombre refleja una silueta rocosa que a cierta luz recuerda un rostro diabólico. Hoy es uno de los nombres de lugar más reconocibles de El Salvador."
+      },
+      {
+        "title": "Geología: un regalo de los volcanes",
+        "content": "El mirador forma parte del cinturón de montañas volcánicas del centro-sur de El Salvador. Con el tiempo, los depósitos volcánicos se acumularon aquí hasta que la actividad tectónica y las lluvias intensas agrietaron y erosionaron la roca a lo largo de fisuras, esculpiendo la 'puerta' entre dos torres enfrentadas. El suelo bajo sus pies, y el lejano Volcán de San Vicente y el Lago de Ilopango, pertenecen a esta misma familia geológica."
+      },
+      {
+        "title": "Ecología de montaña: vida sobre las nubes",
+        "content": "Por encima de los 1.000 metros, la brisa marina y la humedad que elevan los cerros suelen envolver el mirador en niebla. Este ambiente fresco y húmedo sostiene bosques densos y epífitas, y es un buen lugar para observar aves e insectos, sobre todo en la temporada de lluvias."
+      },
+      {
+        "title": "Raíces humanas: ecos de la cultura nahua-pipil",
+        "content": "Panchimalco es uno de los pueblos de El Salvador donde la lengua y las tradiciones nahua-pipiles siguen más arraigadas, celebradas en fiestas como las de Flores y Palmas en mayo. Conocer la herencia indígena hace que la vista desde las alturas tenga aún más significado."
+      }
+    ],
+    "responsibilityTitle": "Responsabilidad y seguridad del visitante",
+    "responsibilityItems": [
+      "Permanezca en senderos y miradores abiertos; nunca cruce barandillas ni escale rocas",
+      "Abandone las alturas ante tormentas eléctricas o viento fuerte y siga las indicaciones del personal",
+      "Lleve agua y protección solar/térmica; el clima de montaña cambia rápido",
+      "No alimente ni moleste a la fauna silvestre, no arranque plantas ni deje basura",
+      "Supervise a los niños y camine con cuidado en tramos mojados o empinados",
+      "Contacte al personal en sitio o a los números de emergencia locales cuando lo necesite"
+    ]
   }
 }
