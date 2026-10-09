@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Puerta del Diablo (Devil's Gate) · Panchimalco, El Salvador - Guía del Visitante",
-    "description": "Descubre Puerta del Diablo (Devil's Gate), el emblemático parque de Panchimalco, Departamento de San Salvador, El Salvador. Ver mapa de ubicación, horarios, lugares cercanos (Volcán de San Vicente, Lago de Ilopango) y consejos de viaje."
+    "title": "Puerta del Diablo (El Salvador): Horarios, Precios y Cómo Llegar",
+    "description": "Visita la Puerta del Diablo en Panchimalco. Consulta horarios, precios de entrada, miradores, estacionamiento y cómo llegar desde San Salvador."
   },
   "header": {
     "home": "Inicio",
@@ -11,11 +11,11 @@
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Devil's Gate",
-    "titleSub": "(Puerta del Diablo) · Panchimalco, El Salvador",
-    "subtitle": "Guía completa del visitante: mapa de ubicación, historia, horarios y consejos de viaje.",
+    "title": "Puerta del Diablo",
+    "titleSub": "Devil's Gate · Panchimalco, El Salvador",
+    "subtitle": "Guía completa del visitante: horarios, precios de entrada, miradores, estacionamiento y cómo llegar desde San Salvador.",
     "rating": "4.6",
-    "reviewCount": "6,873",
+    "reviewCount": "6,958",
     "hours": "Parque",
     "openMaps": "Ver Ubicación"
   },
@@ -111,7 +111,8 @@
     "winterTime": "Clima cálido con lluvias por la tarde, llevar paraguas",
     "warning": "Notas Importantes",
     "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
-    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+    "tip": "Las visitas diurnas ofrecen la mejor experiencia",
+    "verified": "Verificado octubre 2026 · Fuente: ISTU (Instituto Salvadoreño de Turismo)"
   },
   "tickets": {
     "title": "Información de Boletos",
@@ -125,7 +126,8 @@
     "children": "Tarifa de Estacionamiento",
     "childrenPrice": "~$2.00 USD",
     "card": "Actividades Adicionales",
-    "cardPrice": "(Nota: Deportes extremos como el canopy requieren alquiler de equipo o boletos adicionales en el lugar)"
+    "cardPrice": "(Nota: Deportes extremos como el canopy requieren alquiler de equipo o boletos adicionales en el lugar)",
+    "verified": "Verificado octubre 2026 · Fuente: ISTU (Instituto Salvadoreño de Turismo)"
   },
   "transport": {
     "title": "Transporte",
@@ -169,58 +171,10 @@
   },
   "reviews": {
     "title": "Resenas de Visitantes",
-    "declaration": "La información de las resenas se puede ver a través de Google Maps (enlace externo).",
-    "moreReviews": "Ver Más Resenas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "hace 2 meses",
-        "rating": 5,
-        "text": "Un lugar lleno de belleza natural. Las vistas de montaña del parque son inolvidables, muy recomendable para todos los turistas que aman la naturaleza."
-      },
-      {
-        "name": "María González",
-        "date": "hace 3 semanas",
-        "rating": 5,
-        "text": "Parque natural asombroso. Las vistas de montaña son muy espectaculares. Esta es una parte importante de los paisajes naturales de El Salvador."
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "hace 1 mes",
-        "rating": 4,
-        "text": "Lugar muy interesante para acercarse a la verdadera naturaleza. Se recomiendan las visitas diurnas cuando la luz es mejor."
-      },
-      {
-        "name": "Ana Torres",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Una parte importante de la naturaleza de El Salvador. El paisaje del parque es conmovedor, un lugar imprescindible en Panchimalco."
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "hace 2 años",
-        "rating": 4,
-        "text": "Excelente experiencia natural. Las vistas de montaña son maravillosas, y hay muchos paisajes naturales cercanos."
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Hermoso parque, lleno del encanto de la naturaleza de El Salvador. Las vistas de montaña son inolvidables, definitivamente vale la pena visitarlo."
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "hace 3 meses",
-        "rating": 4,
-        "text": "Lugar natural interesante. Experimenta la naturaleza de cerca, recomiendo proteger el medio ambiente."
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Gema natural de Panchimalco. Devil's Gate es un lugar importante para comprender la naturaleza de El Salvador, definitivamente vale la pena experimentarlo."
-      }
-    ]
+    "ratingValue": "4.6",
+    "reviewCount": "6,958",
+    "verifiedNote": "Calificación verificada en Google Maps (octubre de 2026). No publicamos reseñas individuales; consulta los comentarios reales en el enlace de abajo.",
+    "moreReviews": "Ver Resenas en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y Mapa de Puerta del Diablo en Panchimalco",
@@ -362,10 +316,10 @@
     "title": "Historia e Importancia de Puerta del Diablo",
     "items": [
       {
-        "year": "Siglo XVIII",
-        "title": "Trastorno Geológico (1762)",
-        "plaque": "Deslizamiento de Tierra y Fisión",
-        "description": "Según los registros históricos, las fuertes lluvias y el terremoto de 1762 causaron un deslizamiento masivo en el Cerro El Chulo, partiendo la roca en dos y formando la icónica grieta en forma de \"puerta\" que vemos hoy."
+        "year": "Orígenes geológicos",
+        "title": "La grieta de la \"puerta\" (leyenda e historia)",
+        "plaque": "Leyenda y geología",
+        "description": "La grieta en forma de \"puerta\" entre dos rocas es el resultado de procesos geológicos naturales (actividad volcánica y erosión por lluvias). La tradición local la vincula a un deslizamiento que partió la roca; relatos de la zona también mencionan el deslizamiento de 1906, aunque la fecha exacta del evento no está documentada de forma concluyente. Se recomienda consultar las fuentes oficiales para más detalles históricos."
       },
       {
         "year": "Siglo XX",

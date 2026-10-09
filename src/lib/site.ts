@@ -4,9 +4,9 @@
  */
 export const SITE = {
   /** 网站域名 */
-  domain: 'devilsgateelsalvador.com',
-  /** 站点根地址 */
-  url: 'https://devilsgateelsalvador.com',
+  domain: 'www.devilsgateelsalvador.com',
+  /** 站点根地址（统一 www 版本为规范地址） */
+  url: 'https://www.devilsgateelsalvador.com',
 
   /** 景点官方全称（Google Maps 主名称） */
   attractionFullName: "Devil's Gate",
@@ -45,7 +45,7 @@ export const SITE = {
 
   /** 主视觉图（Hero / OG / JSON-LD image） */
   heroImage: '/gallery/devils-gate-view-1.jpg',
-  heroImageAbs: 'https://devilsgateelsalvador.com/gallery/devils-gate-view-1.jpg',
+  heroImageAbs: 'https://www.devilsgateelsalvador.com/gallery/devils-gate-view-1.jpg',
 
   /** GA4 Measurement ID */
   ga4Id: 'G-HXM22WWPKP',

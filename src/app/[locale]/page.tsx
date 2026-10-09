@@ -70,6 +70,14 @@ export default async function HomePage({
     },
     hasMap: SITE.mapsShareUrl,
     sameAs: [SITE.mapsShareUrl, SITE.govtTourismUrl],
+    openingHoursSpecification: [
+      {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        opens: '08:00',
+        closes: '22:00',
+      },
+    ],
   };
 
   // 4. FAQPage 结构化数据（与页面可见 FAQ 区块内容保持一致）
@@ -101,6 +109,9 @@ export default async function HomePage({
         <Hero />
         <Intro />
         <BasicInfo />
+        <HoursSection />
+        <TicketsSection />
+        <TransportSection />
         <NearbySection />
         <FacilitiesSection />
         <HistoryTimeline />
@@ -108,10 +119,7 @@ export default async function HomePage({
         <CrowdRoutesSection />
         <ItinerarySection />
         <RouteSection />
-        <HoursSection />
         <WeatherSection />
-        <TicketsSection />
-        <TransportSection />
         <Gallery />
         <Reviews />
         <ScienceSection />

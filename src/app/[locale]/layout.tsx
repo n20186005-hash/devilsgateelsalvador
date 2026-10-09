@@ -49,7 +49,8 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'es': esUrl,
-        'x-default': zhUrl,
+        // 西语是核心 SEO 资产（贡献 61% 点击），x-default 指向西语版
+        'x-default': esUrl,
       },
     },
     openGraph: {

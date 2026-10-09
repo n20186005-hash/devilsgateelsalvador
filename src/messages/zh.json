@@ -15,7 +15,7 @@
     "titleSub": "(Puerta del Diablo) · Panchimalco, 萨尔瓦多",
     "subtitle": "全方位旅游指南：位置地图、历史背景、开放时间与旅行贴士。",
     "rating": "4.6",
-    "reviewCount": "6,873",
+    "reviewCount": "6,958",
     "hours": "公园",
     "openMaps": "查看位置"
   },
@@ -111,7 +111,8 @@
     "winterTime": "天气温暖，下午有雨，携带雨伞",
     "warning": "重要提示",
     "warningTime": "建议在参观前核实最新信息",
-    "tip": "白天前往可获得最佳的参观体验"
+    "tip": "白天前往可获得最佳的参观体验",
+    "verified": "核实于 2026 年 10 月 · 来源：萨尔瓦多国家旅游学会 ISTU"
   },
   "tickets": {
     "title": "门票信息",
@@ -125,7 +126,8 @@
     "children": "车辆停车费",
     "childrenPrice": "约 $2.00 美元",
     "card": "附加项目",
-    "cardPrice": "(注：高空滑索等极限运动项目需额外在现场租赁装备或购票)"
+    "cardPrice": "(注：高空滑索等极限运动项目需额外在现场租赁装备或购票)",
+    "verified": "核实于 2026 年 10 月 · 来源：萨尔瓦多国家旅游学会 ISTU"
   },
   "transport": {
     "title": "交通方式",
@@ -169,58 +171,10 @@
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
-    "moreReviews": "在 Google Maps 查看更多评价",
-    "items": [
-      {
-        "name": "Carlos Rivera",
-        "date": "2个月前",
-        "rating": 5,
-        "text": "一个充满自然美景的地方。公园的山景令人难忘，强烈推荐给所有喜欢大自然的游客。"
-      },
-      {
-        "name": "María González",
-        "date": "3周前",
-        "rating": 5,
-        "text": "令人惊叹的自然公园。山景非常壮观，这里是萨尔瓦多自然风光的重要组成部分。"
-      },
-      {
-        "name": "Juan Pérez",
-        "date": "1个月前",
-        "rating": 4,
-        "text": "非常有趣的地方，可以亲近真正的大自然。建议白天前往，那时候光线最好。"
-      },
-      {
-        "name": "Ana Torres",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "萨尔瓦多自然的重要组成部分。公园的景色令人感动，这里是潘奇马尔科必去的地方。"
-      },
-      {
-        "name": "Roberto Silva",
-        "date": "2年前",
-        "rating": 4,
-        "text": "很好的自然体验。山景非常精彩，周边还有很多自然景观。"
-      },
-      {
-        "name": "Sofía Méndez",
-        "date": "半年多前",
-        "rating": 5,
-        "text": "美丽的公园，充满了萨尔瓦多自然的魅力。山景令人难忘，一定要来体验。"
-      },
-      {
-        "name": "Miguel Herrera",
-        "date": "3个月前",
-        "rating": 4,
-        "text": "有趣的自然场所。可以近距离感受大自然，建议保护环境。"
-      },
-      {
-        "name": "Laura Vargas",
-        "date": "1个月前",
-        "rating": 5,
-        "text": "潘奇马尔科的自然瑰宝。Devil's Gate 是了解萨尔瓦多自然的重要场所，一定要来体验。"
-      }
-    ]
+    "ratingValue": "4.6",
+    "reviewCount": "6,958",
+    "verifiedNote": "评分核实自 Google Maps（2026 年 10 月）。本站不发布单条评价，真实评论请见下方链接。",
+    "moreReviews": "在 Google Maps 查看评价"
   },
   "mapSection": {
     "title": "位置与地图 · Devil's Gate（Panchimalco）",
@@ -362,10 +316,10 @@
     "title": "Devil's Gate（魔鬼门）的历史与意义",
     "items": [
       {
-        "year": "18世纪",
-        "title": "地质巨变（1762年）",
-        "plaque": "山体滑坡裂变",
-        "description": "根据历史记载，1762 年的特大暴雨与地震导致 Cerro El Chulo 山体发生巨大滑坡，岩石一分为二，形成了如今标志性的“门”状裂口。"
+        "year": "地质起源",
+        "title": "“门”状裂口的由来（传说与历史）",
+        "plaque": "传说与地质",
+        "description": "两岩之间“门”状的裂口是自然地质作用（火山活动与雨水侵蚀）的结果。当地传说将其归因于一次劈裂岩石的山体滑坡；地方记述中也提到 1906 年的滑坡，但该事件的确切日期并无确凿文献记载。建议以官方来源为准了解更详细的历史。"
       },
       {
         "year": "20世纪",
